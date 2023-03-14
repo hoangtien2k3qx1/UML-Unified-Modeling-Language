@@ -1,0 +1,19 @@
+Có 5 loại start UML chính, đó là:
+
+- Use case diagram: 
+	sử dụng để mô tả các chức năng, hoạt động và tương tác giữa người dùng và hệ thống.
+
+- Class diagram: 
+	sử dụng để mô tả cấu trúc của hệ thống bằng cách biểu diễn các lớp, thuộc tính, phương thức và quan hệ giữa chúng.
+
+- Sequence diagram: 
+	sử dụng để mô tả luồng của các hoạt động trong hệ thống, đặc biệt là quá trình tương tác giữa các đối tượng.
+
+- Activity diagram: 
+	sử dụng để mô tả các hoạt động, trạng thái và lưu đồ quy trình trong hệ thống.
+
+- State machine diagram: 
+	sử dụng để mô tả các trạng thái và sự chuyển đổi giữa chúng trong hệ thống.
+
+
+Mỗi loại start UML đều có tính năng và ứng dụng riêng, và có thể được sử dụng để giải quyết các vấn đề khác nhau trong quá trình thiết kế và phát triển phần mềm.
